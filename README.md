@@ -5,9 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![No API Key](https://img.shields.io/badge/API%20Key-not%20required-green.svg)](/)
 
-## Why Aether?
-
-**Stop switching between apps for weather.** Simple, fast, beautiful.
+## Need what?
 
 - 🌍 **Manual City Search** - Type any city worldwide, get instant weather
 - 🔒 **No API Key** - Free Open-Meteo and Nominatim APIs
